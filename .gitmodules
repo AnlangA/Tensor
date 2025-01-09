@@ -1,3 +1,3 @@
-[submodule "exams"]
-	path = exams
+[submodule "learning-cxx"]
+	path = learning-cxx
 	url = https://github.com/AnlangA/learning-cxx.git
